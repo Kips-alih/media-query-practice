@@ -6,4 +6,13 @@
   body{
     background-color: tomato;
   }
+  .column{
+  width: 30%;
+  height: 400px;
+  float:left;
+  border: 2px inset blue;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
 }
